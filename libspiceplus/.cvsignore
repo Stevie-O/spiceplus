@@ -5,3 +5,5 @@ Makefile.in
 spiceplus
 *.o
 *.moc
+*.la
+*.lo
