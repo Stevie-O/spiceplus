@@ -1,1 +1,0 @@
-groupbox.lo .libs/groupbox.o: groupbox.cpp
