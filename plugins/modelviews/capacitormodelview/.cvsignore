@@ -5,3 +5,5 @@ Makefile
 Makefile.in
 *.o
 *.moc
+*.la
+*.lo
