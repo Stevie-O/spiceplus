@@ -42,9 +42,9 @@ int main(int argc, char **argv)
     KAboutData about(PACKAGE, "SPICE+", VERSION,
                      description,
                      KAboutData::License_GPL,
-                     "(c) 2004, Andreas Unger", 0, "http://www.spiceplus.org", "unger@spiceplus.org");
+                     "(c) 2004, Andreas Unger", 0, "http://spiceplus.sourceforge.net", "a_unger@gmx.de");
 
-    about.addAuthor("Andreas Unger", 0, "unger@spiceplus.org");
+    about.addAuthor("Andreas Unger", 0, "a_unger@gmx.de");
 
     KCmdLineArgs::init(argc, argv, &about);
     KCmdLineArgs::addCmdLineOptions(options);
