@@ -1,0 +1,4 @@
+Name=ind. Current source
+Library=spiceplus_device_independentcurrentsource
+Icon=spiceplus_independentcurrentsource
+Position=6

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE symbol>
+<symbol>
+ <shapes>
+  <line x1="0" y1="0" x2="0" y2="-15"/>
+  <line x1="0" y1="-15" x2="14" y2="-29"/>
+  <rect x="14" y="-35" width="7" height="7"/>
+ </shapes>
+ <labels>
+  <label id="name" x="10" y="-40" anchor="southeast" auto-align="true">Name</label>
+ </labels>
+ <pins>
+  <pin id="pin" x="0" y="0"/>
+ </pins>
+</symbol>

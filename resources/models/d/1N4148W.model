@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE model>
+<model device-type="d" type="d" >
+ <parameters>
+  <parameter name="af" ></parameter>
+  <parameter name="bv" >75.0</parameter>
+  <parameter name="cjo" >2.00p</parameter>
+  <parameter name="eg" ></parameter>
+  <parameter name="fc" ></parameter>
+  <parameter name="ibv" >1.00u</parameter>
+  <parameter name="is" >10.4n</parameter>
+  <parameter name="kf" ></parameter>
+  <parameter name="m" >0.333</parameter>
+  <parameter name="n" >2.07</parameter>
+  <parameter name="rs" >51.5m</parameter>
+  <parameter name="tnom" ></parameter>
+  <parameter name="tt" >5.76n</parameter>
+  <parameter name="vj" ></parameter>
+  <parameter name="xti" ></parameter>
+ </parameters>
+ <symbol>
+  <path>standard:Diode/Switching.symbol</path>
+ </symbol>
+</model>

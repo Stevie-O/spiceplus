@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE symbol>
+<symbol>
+ <shapes>
+  <line x1="-40" y1="0" x2="40" y2="0"/>
+  <polygon>
+   <point x="-10" y="-10"/>
+   <point x="-10" y="10"/>
+   <point x="10" y="0"/>
+  </polygon>
+  <line x1="10" y1="-10" x2="10" y2="10"/>
+  <line x1="-23" y1="-15" x2="15" y2="-15" group="ic" enabled="false"/>
+  <polygon fill="true" group="ic" enabled="false">
+   <point x="15" y="-12"/>
+   <point x="23" y="-15"/>
+   <point x="15" y="-18"/>
+  </polygon>
+ </shapes>
+ <labels>
+  <label id="name" x="0" y="-20" anchor="south" auto-align="true">Name</label>
+  <label id="model" x="0" y="20" anchor="north" auto-align="true">Model</label>
+ </labels>
+ <pins>
+  <pin id="p" x="-40" y="0"/>
+  <pin id="n" x="40" y="0"/>
+ </pins>
+</symbol>

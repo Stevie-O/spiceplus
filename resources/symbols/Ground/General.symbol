@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE symbol>
+<symbol>
+ <shapes>
+  <line x1="0" y1="0" x2="0" y2="20"/>
+  <line x1="-18" y1="20" x2="18" y2="20"/>
+  <line x1="-14" y1="24" x2="14" y2="24"/>
+  <line x1="-10" y1="28" x2="10" y2="28"/>
+  <line x1="-6" y1="32" x2="6" y2="32"/>
+  <line x1="-2" y1="36" x2="2" y2="36"/>
+ </shapes>
+ <pins>
+  <pin id="pin" x="0" y="0"/>
+ </pins>
+</symbol>

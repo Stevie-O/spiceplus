@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SPICE+
+Exec=spiceplus
+Icon=spiceplus
+Type=Application
+Categories=Qt;KDE;Application
+Comment=A circuit simulator

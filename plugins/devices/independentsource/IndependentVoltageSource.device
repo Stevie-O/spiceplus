@@ -1,0 +1,4 @@
+Name=ind. Voltage source
+Library=spiceplus_device_independentvoltagesource
+Icon=spiceplus_independentvoltagesource
+Position=5

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE symbol>
+<symbol>
+ <shapes>
+  <cubic-bezier>
+   <point x="-24" y="0"/>
+   <point x="-21" y="-9"/>
+   <point x="-15" y="-9"/>
+   <point x="-12" y="0"/>
+   <point x="-9" y="-9"/>
+   <point x="-3" y="-9"/>
+   <point x="0" y="0"/>
+   <point x="3" y="-9"/>
+   <point x="9" y="-9"/>
+   <point x="12" y="0"/>
+   <point x="15" y="-9"/>
+   <point x="21" y="-9"/>
+   <point x="24" y="0"/>
+  </cubic-bezier>
+  <line x1="-40" y1="0" x2="-24" y2="0"/>
+  <line x1="24" y1="0" x2="40" y2="0"/>
+  <polygon fill="true" group="ic" enabled="false">
+   <point x="-34" y="-3"/>
+   <point x="-26" y="0"/>
+   <point x="-34" y="3"/>
+  </polygon>
+ </shapes>
+ <labels>
+  <label id="name" x="0" y="-16" anchor="south" auto-align="true">Name</label>
+  <label id="value" x="0" y="8" anchor="north" auto-align="true">Value</label>
+ </labels>
+ <pins>
+  <pin id="p" x="-40" y="0"/>
+  <pin id="n" x="40" y="0"/>
+ </pins>
+</symbol>

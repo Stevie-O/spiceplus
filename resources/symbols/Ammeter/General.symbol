@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE symbol>
+<symbol>
+ <shapes>
+  <ellipse x="-16" y="-16" width="33" height="33"/>
+  <line x1="-40" y1="0" x2="-16" y2="0"/>
+  <line x1="16" y1="0" x2="40" y2="0"/>
+  <polygon fill="true">
+   <point x="-30" y="-3"/>
+   <point x="-22" y="0"/>
+   <point x="-30" y="3"/>
+  </polygon>
+ </shapes>
+ <labels>
+  <label x="0" y="0" anchor="middle" auto-align="true">A</label>
+  <label id="name" x="0" y="-24" anchor="south" auto-align="true">Name</label>
+ </labels>
+ <pins>
+  <pin id="p" x="-40" y="0"/>
+  <pin id="n" x="40" y="0"/>
+ </pins>
+</symbol>

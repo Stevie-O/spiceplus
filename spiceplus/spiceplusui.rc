@@ -1,0 +1,75 @@
+<!DOCTYPE kpartgui SYSTEM "kpartgui.dtd">
+<kpartgui name="spiceplus" version="1">
+  <MenuBar>
+    <Menu name="file">
+      <Action name="file_new_schematic" append="new_merge"/>
+      <Action name="file_new_model" append="new_merge"/>
+    </Menu>
+    <Menu name="edit" noMerge="1"><text>&amp;Edit</text>
+      <Action name="edit_undo"/>
+      <Action name="edit_redo"/>
+      <Action name="edit_delete"/>
+      <Separator/>
+      <Action name="edit_select_all"/>
+      <Separator/>
+      <Action name="edit_rotate_ccw"/>
+      <Action name="edit_rotate_cw"/>
+      <Action name="edit_flip_horizontal"/>
+      <Action name="edit_flip_vertical"/>
+    </Menu>
+    <Menu name="view" noMerge="1"><text>&amp;View</text>
+      <Action name="view_zoom_in"/>
+      <Action name="view_zoom_out"/>
+      <Action name="view_zoom"/>
+    </Menu>
+    <Menu name="project"><text>&amp;Project</text>
+      <Action name="project_new"/>
+      <Action name="project_open"/>
+      <Separator/>
+      <Action name="project_close"/>
+    </Menu>
+    <Menu name="analysis"><text>&amp;Analysis</text>
+      <Action name="analysis_dc"/>
+      <Action name="analysis_ac"/>
+      <Action name="analysis_tran"/>
+      <Action name="analysis_pz"/>
+      <Action name="analysis_disto"/>
+      <Action name="analysis_sens"/>
+      <Action name="analysis_noise"/>
+      <Action name="analysis_tf"/>
+    </Menu>
+    <Menu name="tools"><text>&amp;Tools</text>
+      <Action name="tool_select" />
+      <Action name="tool_place_wire"/>
+      <Action name="tool_split_wire"/>
+      <Action name="tool_place_ground"/>
+      <Action name="tool_place_test_point"/>
+      <Action name="tool_place_ammeter"/>
+    </Menu>
+    <Menu name="window"><text>&amp;Window</text>
+      <Action name="window_show_tool_window"/>
+    </Menu>
+  </MenuBar>
+  <ToolBar name="mainToolBar" noMerge="1"><text>Main Toolbar</text>
+    <Action name="file_new_schematic"/>
+    <Action name="file_open"/>
+    <Action name="file_save"/>
+    <Action name="file_print"/>
+    <Separator/>
+    <Action name="edit_undo"/>
+    <Action name="edit_redo"/>
+<!--
+    <Action name="edit_cut"/>
+    <Action name="edit_copy"/>
+    <Action name="edit_paste"/>
+-->
+  </ToolBar>
+  <ToolBar name="schematicToolBar" fullWidth="true" newline="true"><text>Schematic Toolbar</text>
+    <Action name="tool_select"/>
+    <Action name="tool_place_wire"/>
+    <Action name="tool_split_wire"/>
+    <Action name="tool_place_ground"/>
+    <Action name="tool_place_test_point"/>
+    <Action name="tool_place_ammeter"/>
+  </ToolBar>
+</kpartgui>

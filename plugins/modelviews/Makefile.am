@@ -1,0 +1,3 @@
+SUBDIRS = resistormodelview \
+          capacitormodelview \
+          diodemodelview

@@ -1,0 +1,661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-09-06 23:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+
+#: acanalysisdialog.cpp:45
+msgid "Bode Plot %1"
+msgstr ""
+
+#: acanalysisdialog.cpp:127
+msgid "Nyquist Plot %1"
+msgstr ""
+
+#: acanalysisdialog.cpp:188
+msgid "Linear Magnitude Plot %1"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:39 configdialog.cpp:167
+msgid "AC Analysis"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:39 dcanalysispropertiesdialog.cpp:40
+msgid "&Plot"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:45
+msgid "Plot Type"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:48
+msgid "Bode"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:50
+msgid "Nyquist"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:51
+msgid "Linear Magnitude"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:54
+msgid "Frequency"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:57
+msgid "Start:"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:59 acanalysispropertiesdialog.cpp:62
+msgid "Herz"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:60
+msgid "Stop:"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:65 dcanalysispropertiesdialog.cpp:128
+msgid "Output Variable"
+msgstr ""
+
+#: acanalysispropertiesdialog.cpp:79 dcanalysispropertiesdialog.cpp:142
+msgid "Test Points must differ"
+msgstr ""
+
+#: analysisdialog.cpp:56
+msgid "Update"
+msgstr ""
+
+#: configdialog.cpp:50
+msgid "Schematic Editor"
+msgstr ""
+
+#: configdialog.cpp:50
+msgid "Customize the schematic editor"
+msgstr ""
+
+#: configdialog.cpp:51
+msgid "Analysis"
+msgstr ""
+
+#: configdialog.cpp:51
+msgid "Analysis settings"
+msgstr ""
+
+#: configdialog.cpp:52
+msgid "Paths"
+msgstr ""
+
+#: configdialog.cpp:52
+msgid "Configure paths"
+msgstr ""
+
+#: configdialog.cpp:87
+msgid "Background color:"
+msgstr ""
+
+#: configdialog.cpp:89
+msgid "Grid size:"
+msgstr ""
+
+#: configdialog.cpp:93
+msgid "pixels"
+msgstr ""
+
+#: configdialog.cpp:95
+msgid "Visible grid"
+msgstr ""
+
+#: configdialog.cpp:100
+msgid "Grid color:"
+msgstr ""
+
+#: configdialog.cpp:111
+msgid "Device rotation angle:"
+msgstr ""
+
+#: configdialog.cpp:115
+msgid "degrees"
+msgstr ""
+
+#: configdialog.cpp:122
+msgid "Device color, normal:"
+msgstr ""
+
+#: configdialog.cpp:124 configdialog.cpp:128
+msgid ", highlighted:"
+msgstr ""
+
+#: configdialog.cpp:126
+msgid "Wire color, normal:"
+msgstr ""
+
+#: configdialog.cpp:130
+msgid "Selection mark color:"
+msgstr ""
+
+#: configdialog.cpp:132
+msgid "Connection mark color, normal:"
+msgstr ""
+
+#: configdialog.cpp:134
+msgid ", redundant:"
+msgstr ""
+
+#: configdialog.cpp:137
+msgid "Symbol &Colors"
+msgstr ""
+
+#: configdialog.cpp:142
+msgid "Tiny font:"
+msgstr ""
+
+#: configdialog.cpp:144
+msgid "Small font:"
+msgstr ""
+
+#: configdialog.cpp:146
+msgid "Normal font:"
+msgstr ""
+
+#: configdialog.cpp:148
+msgid "Large font:"
+msgstr ""
+
+#: configdialog.cpp:150
+msgid "Huge font:"
+msgstr ""
+
+#: configdialog.cpp:153
+msgid "Symbol &Fonts"
+msgstr ""
+
+#: configdialog.cpp:169
+msgid "Number of points per decade:"
+msgstr ""
+
+#: configdialog.cpp:185
+msgid "Path to SPICE executable:"
+msgstr ""
+
+#: configdialog.cpp:187
+msgid "Device directory:"
+msgstr ""
+
+#: configdialog.cpp:191
+msgid "Model View directory:"
+msgstr ""
+
+#: configdialog.cpp:200
+msgid "Symbol directory:"
+msgstr ""
+
+#: configdialog.cpp:204
+msgid "User defined symbol directories:"
+msgstr ""
+
+#: configdialog.cpp:208
+msgid "&Symbols"
+msgstr ""
+
+#: configdialog.cpp:212
+msgid "Model directory:"
+msgstr ""
+
+#: configdialog.cpp:216
+msgid "User defined model directories:"
+msgstr ""
+
+#: configdialog.cpp:220
+msgid "&Models"
+msgstr ""
+
+#: dcanalysisdialog.cpp:61
+msgid "DC Plot %1,%2"
+msgstr ""
+
+#: dcanalysisdialog.cpp:91 dcanalysisdialog.cpp:101
+msgid "Source %1 not found"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:40
+msgid "DC Analysis"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:48
+msgid "Source Settings"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:53 dcanalysispropertiesdialog.cpp:76
+msgid "Source:"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:58 dcanalysispropertiesdialog.cpp:90
+msgid "Starting Value:"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:60 dcanalysispropertiesdialog.cpp:64
+#: dcanalysispropertiesdialog.cpp:68 dcanalysispropertiesdialog.cpp:97
+#: dcanalysispropertiesdialog.cpp:109 dcanalysispropertiesdialog.cpp:121
+msgid "Volts / Amps"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:62 dcanalysispropertiesdialog.cpp:102
+msgid "Final Value:"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:66 dcanalysispropertiesdialog.cpp:114
+msgid "Incrementing Value:"
+msgstr ""
+
+#: dcanalysispropertiesdialog.cpp:70
+msgid "Use second source:"
+msgstr ""
+
+#: devicepropertiesdialog.cpp:32
+msgid "Device Properties"
+msgstr ""
+
+#: devicewindow.cpp:45
+msgid "No device selected"
+msgstr ""
+
+#: document.cpp:50
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+
+#: document.cpp:51
+msgid "Overwrite File?"
+msgstr ""
+
+#: document.cpp:51
+msgid "&Overwrite"
+msgstr ""
+
+#: main.cpp:32
+msgid "A circuit simulator based on SPICE"
+msgstr ""
+
+#: mainwindow.cpp:71
+msgid "&New Schematic"
+msgstr ""
+
+#: mainwindow.cpp:72
+msgid "New &Model..."
+msgstr ""
+
+#: mainwindow.cpp:105
+msgid "D&elete"
+msgstr ""
+
+#: mainwindow.cpp:117
+msgid "Rotate Counter Clock Wise"
+msgstr ""
+
+#: mainwindow.cpp:123
+msgid "Rotate Clock Wise"
+msgstr ""
+
+#: mainwindow.cpp:129
+msgid "Flip Horizontal"
+msgstr ""
+
+#: mainwindow.cpp:135
+msgid "Flip Vertical"
+msgstr ""
+
+#: mainwindow.cpp:166
+msgid "&New Project..."
+msgstr ""
+
+#: mainwindow.cpp:167
+msgid "&Open Project..."
+msgstr ""
+
+#: mainwindow.cpp:168
+msgid "&Close Project"
+msgstr ""
+
+#: mainwindow.cpp:172
+msgid "&DC Analysis"
+msgstr ""
+
+#: mainwindow.cpp:178
+msgid "&AC Analysis"
+msgstr ""
+
+#: mainwindow.cpp:184
+msgid "&Select"
+msgstr ""
+
+#: mainwindow.cpp:187
+msgid "Place &Wire"
+msgstr ""
+
+#: mainwindow.cpp:190
+msgid "S&plit Wire"
+msgstr ""
+
+#: mainwindow.cpp:193
+msgid "Place &Ground"
+msgstr ""
+
+#: mainwindow.cpp:196
+msgid "Place &Test Point"
+msgstr ""
+
+#: mainwindow.cpp:199
+msgid "Place &Ammeter"
+msgstr ""
+
+#: mainwindow.cpp:202
+msgid "Show &Tool Window"
+msgstr ""
+
+#: mainwindow.cpp:216
+msgid "Tool Window"
+msgstr ""
+
+#: mainwindow.cpp:271
+msgid "Unknown file extension"
+msgstr ""
+
+#: mainwindow.cpp:314
+msgid ""
+"The document \"%1\" has been modified.\n"
+"Do you want to save it?"
+msgstr ""
+
+#: mainwindow.cpp:315
+msgid "Save Document?"
+msgstr ""
+
+#: mainwindow.cpp:369
+#, c-format
+msgid "Schematic%1.schematic"
+msgstr ""
+
+#: mainwindow.cpp:396
+#, c-format
+msgid "Model%1.model"
+msgstr ""
+
+#: mainwindow.cpp:416
+msgid "All Supported Files"
+msgstr ""
+
+#: mainwindow.cpp:417 schematicdocument.cpp:118
+msgid "Schematic File"
+msgstr ""
+
+#: mainwindow.cpp:418 modeldocument.cpp:141
+msgid "Model File"
+msgstr ""
+
+#: mainwindow.cpp:419
+msgid "Open File"
+msgstr ""
+
+#: meter.cpp:50 meter.cpp:64
+msgid "Test Point %1 not found"
+msgstr ""
+
+#: meter.cpp:57 meter.cpp:71
+msgid "Test Point %1 not connected"
+msgstr ""
+
+#: meter.cpp:77
+msgid "Both Test Points are connected to the same node"
+msgstr ""
+
+#: meter.cpp:93
+msgid "Ammeter %1 not found"
+msgstr ""
+
+#: meterselector.cpp:43
+msgid "Voltmeter:"
+msgstr ""
+
+#: meterselector.cpp:60
+msgid "Ammeter:"
+msgstr ""
+
+#: modeldirsedit.cpp:65 symboldirsedit.cpp:63
+msgid "ID:"
+msgstr ""
+
+#: modeldirsedit.cpp:67 symboldirsedit.cpp:65
+msgid "Name:"
+msgstr ""
+
+#: modeldirsedit.cpp:69 symboldirsedit.cpp:67
+msgid "Path:"
+msgstr ""
+
+#: modeldirsedit.cpp:74 modeldirsedit.cpp:143
+msgid "Contains type directories"
+msgstr ""
+
+#: modeldirsedit.cpp:101 symboldirsedit.cpp:93
+msgid "No ID specified"
+msgstr ""
+
+#: modeldirsedit.cpp:107 symboldirsedit.cpp:99
+msgid "No name specified"
+msgstr ""
+
+#: modeldirsedit.cpp:113 symboldirsedit.cpp:105
+msgid "No path specified"
+msgstr ""
+
+#: modeldirsedit.cpp:119 symboldirsedit.cpp:111
+msgid "The ID '%1' is reserved. Please choose another one."
+msgstr ""
+
+#: modeldirsedit.cpp:140 symboldirsedit.cpp:129
+msgid "ID"
+msgstr ""
+
+#: modeldirsedit.cpp:141 symboldirsedit.cpp:130
+msgid "Name"
+msgstr ""
+
+#: modeldirsedit.cpp:142 symboldirsedit.cpp:131
+msgid "Path"
+msgstr ""
+
+#: modeldirsedit.cpp:149 symboldirsedit.cpp:137
+msgid "&Add..."
+msgstr ""
+
+#: modeldirsedit.cpp:152 symboldirsedit.cpp:140
+msgid "M&odify..."
+msgstr ""
+
+#: modeldirsedit.cpp:203
+msgid "Add model directory"
+msgstr ""
+
+#: modeldirsedit.cpp:207 modeldirsedit.cpp:232 symboldirsedit.cpp:195
+#: symboldirsedit.cpp:219
+msgid "ID already exists"
+msgstr ""
+
+#: modeldirsedit.cpp:222
+msgid "Modify model directory"
+msgstr ""
+
+#: modeldocument.cpp:54
+msgid "Misc Options"
+msgstr ""
+
+#: modeldocument.cpp:57
+msgid "Alias:"
+msgstr ""
+
+#: modeldocument.cpp:62
+msgid "Symbol path:"
+msgstr ""
+
+#: modeldocument.cpp:67
+msgid "Select..."
+msgstr ""
+
+#: modeldocument.cpp:141
+msgid "Save Model"
+msgstr ""
+
+#: modelviewselector.cpp:55
+msgid "Model Device Type"
+msgstr ""
+
+#: modelviewselector.cpp:63
+msgid "Select the device type of the model:"
+msgstr ""
+
+#: modelviewselector.cpp:106
+msgid "No Model View plugins found"
+msgstr ""
+
+#: projectdialognew.cpp:38
+msgid "New Project"
+msgstr ""
+
+#: projectdialognew.cpp:46
+msgid "Project name:"
+msgstr ""
+
+#: projectdialognew.cpp:52
+msgid "Location:"
+msgstr ""
+
+#: projectdialognew.cpp:59
+msgid "Project directory:"
+msgstr ""
+
+#: projectdialognew.cpp:83
+msgid "No project name specified"
+msgstr ""
+
+#: projectdialognew.cpp:89
+msgid "Directory %1 does not exist"
+msgstr ""
+
+#: projectdialognew.cpp:95
+msgid "Directory or file %1 already exists"
+msgstr ""
+
+#: projectmanager.cpp:130
+msgid "Project File"
+msgstr ""
+
+#: projectmanager.cpp:131
+msgid "Open Project"
+msgstr ""
+
+#: projectmanager.cpp:151
+msgid "Invalid document structure"
+msgstr ""
+
+#: projectmanager.cpp:159 projectmanager.cpp:166
+msgid "Invalid Project File"
+msgstr ""
+
+#: rc.cpp:3
+msgid "&Project"
+msgstr ""
+
+#: rc.cpp:4
+msgid "&Analysis"
+msgstr ""
+
+#: rc.cpp:6
+msgid "&Window"
+msgstr ""
+
+#: rc.cpp:8
+msgid "Schematic Toolbar"
+msgstr ""
+
+#: schematicdocument.cpp:118
+msgid "Save Schematic"
+msgstr ""
+
+#: schematictool.cpp:920
+msgid "Double click to terminate wire"
+msgstr ""
+
+#: schematictool.cpp:1248
+msgid "Press r or R to rotate device and f or F to flip device"
+msgstr ""
+
+#: spiceprocess.cpp:51
+msgid "SPICE executable %1 not found"
+msgstr ""
+
+#: spiceprocess.cpp:57
+msgid "Could not start SPICE"
+msgstr ""
+
+#: spiceprocess.cpp:63
+msgid "Communication with SPICE failed"
+msgstr ""
+
+#: spiceprocess.cpp:93
+msgid ""
+"Analysis failed\n"
+"There is probably a mistake in the schematic."
+msgstr ""
+
+#: spiceprocess.cpp:107
+msgid "Analysis failed: Invalid data"
+msgstr ""
+
+#: spiceprocess.cpp:113
+msgid "Analysis failed: No data"
+msgstr ""
+
+#: spiceprocess.cpp:146
+msgid "Analysis failed: Invalid values"
+msgstr ""
+
+#: symboldialog.cpp:100
+msgid "Select symbol"
+msgstr ""
+
+#: symboldialog.cpp:118
+msgid "Standard Symbols"
+msgstr ""
+
+#: symboldialog.cpp:128
+msgid "Project Symbols"
+msgstr ""
+
+#: symboldirsedit.cpp:191
+msgid "Add symbol directory"
+msgstr ""
+
+#: symboldirsedit.cpp:210
+msgid "Modify symbol directory"
+msgstr ""
