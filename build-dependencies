@@ -1,2 +1,4 @@
 autoconf v2.53 or newer
+xorg-dev
+optional dependency: libjpeg
 
