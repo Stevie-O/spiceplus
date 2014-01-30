@@ -1,2 +1,11 @@
 .svn
-
+Makefile.in
+acinclude.m4
+aclocal.m4
+config.h.in
+configure
+configure.files
+configure.in
+stamp-h.in
+subdirs
+autom4te.cache
